@@ -6,7 +6,7 @@
   <a href="mailto:sbhashyam970@gmail.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/sravan-bhashyam" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Bhashyam39" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/Bhashyam39/blob/main/Sravan_Kumar_Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-%2300C853.svg?&style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
+  <a href="https://drive.google.com/file/d/1yel25wSuiPwQivnGoKSfajzXMj1G0voT/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Resume-%2300C853.svg?&style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
 </p>
 
 
@@ -15,11 +15,18 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 ### 💫 About Me:
-- 🎓 B.Tech in CSE - Data Science @ KKR & KSR Institute of Technology and Sciences (2021–2024)  
-- 🌱 I’m currently diving deeper into **AI, NLP, and Deep Learning**
-- 🧠 I'm passionate about **Problem Solving** and **Model Optimization**
-- 🛠️ Love building things that **make data speak**
-- 🧩 Fun Fact: I can debug while sipping chai ☕
+
+I'm Sravan Kumar Bhashyam, a passionate and driven Computer Science student specializing in **Data Science**. I love working at the intersection of data, logic, and creativity — building models that not only work but *make sense*. Whether it's **designing AI solutions**, diving into **NLP tasks**, or creating **interactive visualizations**, I thrive on solving real-world problems using technology.
+
+- 🎓 **Education**: B.Tech in CSE (Data Science) from KKR & KSR Institute of Technology and Sciences (2021–2024)
+- 🧠 **Interests**: Data Analytics, Data Visualization, Machine Learning, NLP
+- 🛠️ **Currently Working On**: Preprocessing pipelines for AI models and evaluating ML algorithms
+- 📌 **Goals**: To contribute to impactful AI solutions and keep growing as a data scientist
+- 🌐 **Community**: Regular participant in hackathons, summits, and tech workshops to stay updated and connect with innovators
+- 🧩 **Hobbies**: Reading tech blogs, exploring AI ethics, watching sci-fi, and sketching in free time
+
+> I believe in learning by doing — the best lessons come from breaking, fixing, and building things better.
+
 
 ---
 
@@ -99,10 +106,13 @@ Identified vulnerabilities in multiple websites, implemented fixes with stakehol
 
 ### 🧭 Let's Connect
 
-💌 Reach out for collaborations, internships, or just to say hi!  
-📧 sbhashyam970@gmail.com
+<p align="center">
+  <a href="mailto:sbhashyam970@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sravan-bhashyam" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Bhashyam39" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://drive.google.com/file/d/1yel25wSuiPwQivnGoKSfajzXMj1G0voT/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Resume-00C853?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
+</p>
 
 ---
 
-_“The best way to predict the future is to create it.” – Abraham Lincoln_
 
