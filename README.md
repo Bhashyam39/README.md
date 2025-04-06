@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Sravan Kumar Bhashyam</h1>
-<h3 align="center">Aspiring Data Scientist | AI Enthusiast | Full Stack Explorer</h3>
+<h3 align="center">Aspiring Data Scientist | AI Enthusiast </h3>
 
 <p align="center">
   <a href="mailto:sbhashyam970@gmail.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
